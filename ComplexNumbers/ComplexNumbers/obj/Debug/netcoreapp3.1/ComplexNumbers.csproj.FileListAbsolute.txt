@@ -1,0 +1,14 @@
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.exe
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.deps.json
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.json
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.dev.json
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.dll
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.pdb
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csproj.AssemblyReference.cache
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfo.cs
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.dll
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.pdb
+C:\Users\bulyn\source\repos\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.genruntimeconfig.cache
